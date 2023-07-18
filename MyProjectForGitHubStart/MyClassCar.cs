@@ -8,5 +8,10 @@ namespace MyProjectForGitHubStart
 {
     internal class MyClassCar
     {
+        public MyClassCar()
+        {
+            Console.WriteLine();
+
+        }
     }
 }
