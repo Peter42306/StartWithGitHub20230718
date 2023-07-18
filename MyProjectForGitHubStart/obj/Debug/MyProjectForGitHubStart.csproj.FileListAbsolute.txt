@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\MyProjectForGitHubStart\MyProjectForGitHubStart\bin\Debug\MyProjectForGitHubStart.exe.config
+C:\Users\ACER\source\repos\MyProjectForGitHubStart\MyProjectForGitHubStart\bin\Debug\MyProjectForGitHubStart.exe
+C:\Users\ACER\source\repos\MyProjectForGitHubStart\MyProjectForGitHubStart\bin\Debug\MyProjectForGitHubStart.pdb
+C:\Users\ACER\source\repos\MyProjectForGitHubStart\MyProjectForGitHubStart\obj\Debug\MyProjectForGitHubStart.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\MyProjectForGitHubStart\MyProjectForGitHubStart\obj\Debug\MyProjectForGitHubStart.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\MyProjectForGitHubStart\MyProjectForGitHubStart\obj\Debug\MyProjectForGitHubStart.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\MyProjectForGitHubStart\MyProjectForGitHubStart\obj\Debug\MyProjectForGitHubStart.exe
+C:\Users\ACER\source\repos\MyProjectForGitHubStart\MyProjectForGitHubStart\obj\Debug\MyProjectForGitHubStart.pdb
